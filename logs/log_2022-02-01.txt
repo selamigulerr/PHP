@@ -1,0 +1,4 @@
+[2022-02-01 15:06:35.310636] [info] Info example
+[2022-02-01 15:06:35.310801] [error] Error example
+    code: 404
+    message: 'Not Found'

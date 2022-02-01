@@ -1,0 +1,18 @@
+{
+    "name": "selami.guler/php",
+    "description": "Create composer.",
+    "type": "project",
+    "license": "free",
+    "authors": [
+        {
+            "name": "selamigulerr",
+            "email": "selami.gulerr@gmail.com"
+        }
+    ],
+    "require": {
+        "katzgrau/klogger": "^1.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
